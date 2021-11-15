@@ -4,8 +4,8 @@ metadata:
   name: "myTechDoc"
   description: "This is a test docs"
   annotations:
-    github.com/project-slug: SaranathRangamannar/myTechDoc
-    backstage.io/techdocs-ref: url:https://github.com/SaranathRangamannar/myTechDoc
+    github.com/project-slug: SaranathRangamannar/myTechDocs
+    backstage.io/techdocs-ref: url:https://github.com/SaranathRangamannar/myTechDocs
 spec:
   type: documentation
   lifecycle: experimental
