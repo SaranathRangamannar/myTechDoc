@@ -5,7 +5,7 @@ metadata:
   description: "This is a test docs"
   annotations:
     github.com/project-slug: SaranathRangamannar/myTechDocs
-    backstage.io/techdocs-ref: url:https://github.com/SaranathRangamannar/myTechDocs
+    backstage.io/techdocs-ref: url:https://github.com/SaranathRangamannar/myTechDocs/docs
 spec:
   type: documentation
   lifecycle: experimental
