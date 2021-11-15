@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "myTechDoc"
+  description: "This is a test docs"
+  annotations:
+    github.com/project-slug: SaranathRangamannar/myTechDoc
+    backstage.io/techdocs-ref: url:https://github.com/SaranathRangamannar/myTechDoc
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "SaranathRangamannar"
